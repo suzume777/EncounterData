@@ -1,0 +1,5 @@
+## Interface: 100000
+## Title: EncounterData
+## SavedVariables: EncounterData
+
+EncounterData.lua
